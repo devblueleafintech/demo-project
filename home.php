@@ -78,6 +78,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>HOME | GTO Process</title>
+	<h2> Welcome to the GTO Batch 2018<h2/>
 
     <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico" />
     <!-- Bootstrap -->
